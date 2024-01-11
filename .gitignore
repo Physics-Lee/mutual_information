@@ -70,3 +70,6 @@ cython_debug/
 
 # Logging
 *.log
+
+# data
+/videos/td_learning_sarsa_and_q_learning/data
